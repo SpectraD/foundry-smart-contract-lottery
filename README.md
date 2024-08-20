@@ -1,4 +1,4 @@
-**Smart Contract Lottery**
+## Smart Contract Lottery
 
 This is a lottery project using Solidity and Foundry. The code can be explored directly on this repository.
 
