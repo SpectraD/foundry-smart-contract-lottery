@@ -1,4 +1,14 @@
-## Foundry
+**Smart Contract Lottery**
+
+This is a lottery project using Solidity and Foundry. The code can be explored directly on this repository.
+
+This project was made possible by the course from Patrick Collins: https://updraft.cyfrin.io/courses/foundry
+
+**Explore the Code**
+- You can explore the code directly on this repository by looking at the Solidity files in the `/contracts` directory.
+- You can test the coverage of the project with this command : `forge test coverage` and see unit test : `forge test`
+
+## Foundry Explanation
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
